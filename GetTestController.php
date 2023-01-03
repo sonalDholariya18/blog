@@ -7,6 +7,6 @@ use Illuminate\Http\Request;
 class GetTestController extends Controller
 {
     public function index() {
-        dd("in here");
+        dd("k here");
     }
 }
